@@ -1,0 +1,53 @@
+body{
+
+color: chocolate;
+
+background-color: black;
+
+
+}
+
+header nav li{
+
+display: inline-block;
+
+text-align: center;
+
+list-style: none;
+
+padding: 10px;
+
+margin-right: 200px;
+
+
+}
+
+header nav li a{
+
+
+color: chocolate;
+
+text-decoration: none;
+
+}
+
+header nav li a:hover{
+
+
+    color: white;
+    
+    }
+
+.slider-container {
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+    height: 50%;
+  }
+  .slider {
+    display: flex;
+    transition: transform 0.5s ease-in-out;
+  }
+  .slide {
+    min-width: 100%;
+  }

@@ -1,0 +1,81 @@
+body{
+
+    color: chocolate;
+    
+    background-color: black;
+    
+    
+    }
+
+
+    h1{
+
+
+    text-align: center;
+
+    color: green;
+
+    }
+
+    p{
+
+
+     text-align: center;
+
+
+    }
+
+
+    div{
+
+
+        padding-left: 600px;
+
+        color: blue;
+
+    }
+
+input{
+    margin-left: 530px;
+}
+
+#message{
+
+    color: brown;
+
+    background-color: darkcyan;
+
+    height: 45px;   
+
+}
+
+    header nav li{
+
+        display: inline-block;
+        
+        text-align: center;
+        
+        list-style: none;
+        
+        padding: 10px;
+        
+        margin-right: 200px;
+        
+        
+        }
+        
+        header nav li a{
+        
+        
+        color: chocolate;
+        
+        text-decoration: none;
+        
+        }
+        
+        header nav li a:hover{
+        
+        
+            color: white;
+            
+            }
